@@ -1,4 +1,4 @@
-Privacy Policy of Square-Emoji-Photo-Editor
+<b>Privacy Policy of Square-Emoji-Photo-Editor</b>
 
 1. Camera
 
